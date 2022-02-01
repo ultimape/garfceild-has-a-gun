@@ -1,0 +1,12 @@
+{
+  "name": "gunfuck",
+  "version": "0.0.1",
+  "description": "fucking gun how does it work",
+  "main": "gunfuckingwhat.js",
+  "author": "me",
+  "license": "ok",
+  "private": false,
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
+}
