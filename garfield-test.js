@@ -1,5 +1,9 @@
 // 2022 @ultimape
-// modified gun's tutorial to all hell 
+// modified gun's tutorial to all heck
+//
+// use "yarn install" or "npm install" to get teh dependancies (gun)
+// run with "$node garfield-test.js"
+// see console output
 const { on } = require("events");
 const Gun = require("gun");
 const { off } = require("process");
